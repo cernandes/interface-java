@@ -10,10 +10,10 @@ exemplos. Implementar o exercício conforme o diagrama de classe:
 
 ### Diagrama de classes
 <p align="center">
-  <img src="./assets/img/diagram-class-domain-layer.jpg" width="350" title="hover text" alt="class diagram">
+  <img src="https://raw.githubusercontent.com/cernandes/interface-java/master/assets/img/diagram-class-domain-layer.jpg" width="350" title="hover text" alt="class diagram">
 </p>
 <p align="center">
-  <img src="./assets/img/diagram-class-service-layer.jpg" width="350" title="hover text" alt="class diagram">
+  <img src="https://raw.githubusercontent.com/cernandes/interface-java/master/assets/img/diagram-class-service-layer.JPG" width="350" title="hover text" alt="class diagram">
 </p>
 
 #### cas #1
